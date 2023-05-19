@@ -2,6 +2,8 @@
 
 Org Public Profile README
 
+View As Public
+
 <!--
 
 **Here are some ideas to get you started:**
