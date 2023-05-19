@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Public Profile README
+Org Public Profile README
 
 <!--
 
